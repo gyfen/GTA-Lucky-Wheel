@@ -8,19 +8,19 @@ If you don't want to edit the file and just want to use it, you can delete the .
 ***
 
 ## Instructions
-**Requirements:**
+### Requirements:
 
 -1920 x 1080 game resolution
 
 -Fullscreen mode: Windowed borderless
 
-**How to use:**
+### How to use:
 
 To use the script, simply open the .exe (or .ahk). It will run in the background.
 
 To stop the script, open you systemtray and rightclick the green **H**.
 
-*In-game:*
+#### In-game:
 1) Stand in front of the lucky wheel.
 
 2) Press **E**.
@@ -35,8 +35,7 @@ To stop the script, open you systemtray and rightclick the green **H**.
 
 When you press **F1** you should see a tooltip in the upper-left corner
 
-
-**How to edit the file/delay:**
+### How to edit the file/delay:
 
 Right-click the .ahk file and click *edit*.
 
