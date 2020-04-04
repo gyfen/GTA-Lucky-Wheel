@@ -33,7 +33,7 @@ To stop the script, open you systemtray and rightclick the green **H**.
 
 5) Press **CTRL + ALT + A** if you don't get the desired price.
 
-When you press **F1** you should see a tooltip in the upper-left corner
+When you press **F1** you should see a tooltip in the upper-left corner of youre screen.
 
 ### How to edit the file/delay:
 
