@@ -5,6 +5,8 @@ I included an .ahk file as well, this is so you can edit the script.
 To use the .ahk file you need to have *AutoHotkey* installed.
 If you don't want to edit the file and just want to use it, you can delete the .ahk and just use the .exe.
 
+From my testing this is quite inconsistent, but I decided to release it anyway
+
 ***
 
 ## Instructions
