@@ -7,6 +7,8 @@ If you don't want to edit the file and just want to use it, you can delete the .
 
 From my testing this is quite inconsistent, but I decided to release it anyway.
 
+**This will NOT guarantee you to always get the vehicle. It's just a tool to do the timing for you.**
+
 ***
 
 ## Instructions
