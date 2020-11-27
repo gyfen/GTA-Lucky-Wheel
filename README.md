@@ -76,7 +76,7 @@ detect when to start the delay timer
 
 **F2:** Lets you put manually defined coordinates of spin dialogue into the
 Windows registry to be read and used by script upon the next execution. Put the appropriate coordinates into the script file first
-before pressing this key
+before pressing this key!
 
 ***
 -Gyfen and Peppa
