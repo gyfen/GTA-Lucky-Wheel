@@ -30,7 +30,7 @@ You will need to record coordinates of a lucky wheel spin dialogue.
 
 2) Press **E**.
 
-3) Try to aim so your cursor on the white area highlighted by arrow on the image
+3) Try to put your cursor on the white area highlighted by arrow on the image
    below. 
    If you don't have cursor shown on your screen, try ALT+TAB on the work table and
    try to predict where this white area will be, then press CAPSLOCK. Repeat
@@ -75,8 +75,8 @@ Adjust this value to your likings.
 detect when to start the delay timer
 
 **F2:** Lets you put manually defined coordinates of spin dialogue into the
-Windows registry. Put the appropriate coordinates into the script file first
-before pressing this key
+Windows registry to be read and used by script upon the next execution. Put the appropriate coordinates into the script file first
+before pressing this key!
 
 ***
 -Gyfen and Peppa
