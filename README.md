@@ -34,7 +34,7 @@ You will need to record coordinates of a lucky wheel spin dialogue.
    try to predict where this white area will be (preferably left part but not
    the edge). Or hold ALT+TAB and put the cursor on that area.
    
-4) Not moving the mouser (and subsequently the cursor), while *in game*, press CAPSLOCK. Repeat
+4) Not moving the mouse (and subsequently the cursor), while *in game*, press CAPSLOCK. Repeat
    until the steps below will work for you. 
 
 ![Lucky wheel spin dialogue](https://user-images.githubusercontent.com/63922776/100398641-a3eacd80-3060-11eb-9032-20fa566470df.png "Lucky wheel spin dialogue")
