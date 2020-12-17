@@ -1,9 +1,7 @@
 # GTA Lucky Wheel
 
 This script helps getting the podium vehicle at the lucky wheel.
-I included an .ahk file as well, this is so you can edit the script.
 To use the .ahk file you need to have *AutoHotkey* installed.
-If you don't want to edit the file and just want to use it, you can delete the .ahk and just use the .exe.
 
 From my testing this is quite inconsistent, but I decided to release it anyway.
 
@@ -18,7 +16,7 @@ From my testing this is quite inconsistent, but I decided to release it anyway.
 
 ### How to use:
 
-To use the script, simply open the .exe (or .ahk). It will run in the background.
+To use the script, simply open the .ahk. It will run in the background.
 
 To stop the script, open you systemtray and rightclick the green **H**.
 
@@ -33,7 +31,10 @@ You will need to record coordinates of a lucky wheel spin dialogue.
 3) Try to put your cursor on the white area highlighted by arrow on the image
    below. 
    If you don't have cursor shown on your screen, try ALT+TAB on the work table and
-   try to predict where this white area will be, then press CAPSLOCK. Repeat
+   try to predict where this white area will be (preferably left part but not
+   the edge). Or hold ALT+TAB and put the cursor on that area.
+   
+4) Not moving the mouse (and subsequently the cursor), while *in game*, press CAPSLOCK. Repeat
    until the steps below will work for you. 
 
 ![Lucky wheel spin dialogue](https://user-images.githubusercontent.com/63922776/100398641-a3eacd80-3060-11eb-9032-20fa566470df.png "Lucky wheel spin dialogue")

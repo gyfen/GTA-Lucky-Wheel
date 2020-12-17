@@ -15,6 +15,8 @@ SendMode Input
 
 ScriptName := "GTA5LuckyWheelSpinScriptAHK"
 
+delay := 2693 ; Edit this value to change the spinning speed: higher value = slower spin. Utilize Binary Search algorithm to optimize correct value search.
+
 ; Use this routine to set your own coordinates of wheel spin dialogue. The
 ; current number are valid for 2K monitor. Put the coordinates of the white
 ; area in wheel spin dialogue in xx and yy variables.
@@ -30,8 +32,6 @@ f2::
     Tooltip Wheel spin dialogue coordinates: x = %spin_coord_x%`, y = %spin_coord_y%. Saved to registry. , 0, 0
     SetTimer, RemoveToolTip, 5000
 Return
-
-delay := 2693 ; Edit this value to change the spinning speed: higher value = slower spin. Utilize Binary Search algorithm to optimize correct value search.
 
 CoordMode, ToolTip, Screen
 
